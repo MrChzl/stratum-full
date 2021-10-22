@@ -199,6 +199,7 @@ void sha256_double_hash_hex(const char *input, char *output, unsigned int len);
 #include "algos/nist5.h"
 #include "algos/pentablake.h"
 #include "algos/phi.h"
+#include "algos/phi1612.h"
 #include "algos/phi2.h"
 #include "algos/pipehash.h"
 #include "algos/polytimos.h"
